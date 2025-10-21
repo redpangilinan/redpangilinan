@@ -2,7 +2,7 @@
 
 I'm a motivated software engineer focused on building high-performance, type-safe applications with a strong emphasis on clean, maintainable code
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_rdev7?label=Follow)](https://twitter.com/intent/follow?screen_name=_rdev7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/redpngilinan?label=Follow)](https://twitter.com/intent/follow?screen_name=redpngilinan)
 [![Linkedin: redpangilinan](https://img.shields.io/badge/-redpangilinan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jan-reynald-pangilinan/)](https://www.linkedin.com/in/jan-reynald-pangilinan/)
 ![GitHub followers](https://img.shields.io/github/followers/redpangilinan?label=Follow&style=social)
 [![rdev.pro](https://img.shields.io/badge/rdev.pro-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rdev.pro)](https://rdev.pro)
