@@ -9,7 +9,7 @@ I'm a motivated software engineer focused on building high-performance, type-saf
 
 ### Socials
 <p align="left">
-<a href="https://twitter.com/_rdev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rdev7" height="30" width="40" /></a>
+<a href="https://twitter.com/redpngilinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rdev7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jan-reynald-pangilinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-reynald-pangilinan" height="30" width="40" /></a>
 <a href="https://fb.com/redpangilinan15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="redpangilinan15" height="30" width="40" /></a>
 </p>
