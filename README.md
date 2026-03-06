@@ -22,7 +22,4 @@ I'm a motivated software engineer focused on building high-performance, type-saf
 
 ![](https://komarev.com/ghpvc/?username=redpangilinan&style=flat)
 [![wakatime](https://wakatime.com/badge/user/644adcba-5594-487d-a5a8-56cb266b911b.svg)](https://rdev.pro/dashboard)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=redpangilinan&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-[![redpangilinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=redpangilinan&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redpangilinan&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=redpangilinan&theme=gruvbox)](https://git.io/streak-stats)
